@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Blended
+comment1.params=input
+comment1.target=Blended(Beverage)
+comment2.params=
+comment2.target=java.lang.String\ getDesc()
+comment3.params=
+comment3.target=double\ getPrice()
+numComments=4

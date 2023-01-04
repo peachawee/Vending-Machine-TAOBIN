@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=TaobinDataBase
+comment1.params=phoneNB
+comment1.target=int\ checkMember(java.lang.String)
+comment2.params=phone
+comment2.target=void\ addMember(java.lang.String)
+comment3.params=
+comment3.target=int\ getSize()
+comment3.text=public\ void\ addPoint(int\ no){\r\n\ \ \ \ \ \ \ \ int\ x\ \=\ point.get(no)+5;\r\n\ \ \ \ \ \ \ \ point.add(no,x);\r\n}
+comment4.params=no
+comment4.target=int\ getPoint(int)
+numComments=5

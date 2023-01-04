@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=OperationAdd
+comment1.params=db\ num\ no
+comment1.target=void\ doOperation(TaobinDataBase,\ double,\ int)
+numComments=2

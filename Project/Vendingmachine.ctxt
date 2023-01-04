@@ -1,0 +1,30 @@
+#BlueJ class context
+comment0.target=Vendingmachine
+comment1.params=
+comment1.target=Vendingmachine()
+comment10.params=phone
+comment10.target=boolean\ checkPhone(java.lang.String)
+comment11.params=
+comment11.target=void\ topUpbyCash()
+comment12.params=
+comment12.target=void\ showDesc()
+comment13.params=
+comment13.target=void\ showPrice()
+comment2.params=
+comment2.target=void\ showAllProduct()
+comment2.text=private\ void\ createProduct(int\ want,\ int\ temperat){\r\n\ \ \ \ \ \ \ \ beverageFactory\ \=\ FactoryProducer.getFactory(want);\r\n\ \ \ \ \ \ \ \ String\ temp\ \=\ "HOT";\r\n\ \ \ \ \ \ \ \ if(temperat\=\=2)\ temp\ \=\ "ICE";\r\n\ \ \ \ \ \ \ \ beverage\ \=\ beverageFactory.getBeverage(temp);\r\n}
+comment3.params=
+comment3.target=void\ startProcess()
+comment4.params=state
+comment4.target=void\ setState(State)
+comment5.params=
+comment5.target=State\ getState()
+comment6.params=
+comment6.target=void\ topUp()
+comment7.params=
+comment7.target=void\ showMenu()
+comment8.params=
+comment8.target=void\ cancel()
+comment9.params=
+comment9.target=java.lang.String\ enterPhoneNumber()
+numComments=14

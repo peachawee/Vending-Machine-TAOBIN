@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=CoffeeFactory
+comment1.params=beverageType
+comment1.target=Beverage\ getBeverage(java.lang.String)
+numComments=2

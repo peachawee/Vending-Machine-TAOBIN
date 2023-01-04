@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Decorate
+comment1.params=v
+comment1.target=Decorate(Vendingmachine)
+comment2.params=
+comment2.target=void\ addTopping()
+comment3.params=
+comment3.target=void\ selectAndCreate()
+comment4.params=
+comment4.target=void\ choosePaymentMethod()
+comment5.params=
+comment5.target=void\ collectAPoint()
+numComments=6

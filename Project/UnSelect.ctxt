@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=UnSelect
+comment1.params=v
+comment1.target=UnSelect(Vendingmachine)
+comment2.params=
+comment2.target=void\ selectAndCreate()
+comment3.params=want\ temperat
+comment3.target=void\ createProduct(int,\ int)
+comment4.params=
+comment4.target=int\ selectProduct()
+comment5.params=
+comment5.target=int\ temperature()
+comment6.params=
+comment6.target=void\ addTopping()
+comment7.params=
+comment7.target=void\ choosePaymentMethod()
+comment8.params=
+comment8.target=void\ collectAPoint()
+numComments=9
